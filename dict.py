@@ -31,3 +31,9 @@ resources = {
     "money": 20
 }
 
+money_bag = {
+    "penny": 1,
+    "nickle": 5,
+    "dime": 10,
+    "qaurter": 25
+}
